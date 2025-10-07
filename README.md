@@ -1,20 +1,22 @@
-Ezequiel Pedulla
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=2000&color=2F81F7&center=true&vCenter=true&width=500&lines=Desarrollador+Python+%7C+Full+Stack;Creando+soluciones+innovadoras;Especializado+en+APIs+y+Web+Apps" alt="Typing SVG" />
+  <h3>🐍 Desarrollador Python | 💻 Full Stack Developer</h3>
+  <p><em>Especializado en desarrollo web, APIs y bases de datos</em></p>
 </div>
 
 ## 🚀 Sobre Mí
 
-Soy un desarrollador apasionado por la tecnología, especializado en **Python** y desarrollo **Full Stack**. De Buenos Aires, Argentina, y estoy constantemente aprendiendo nuevas tecnologías para crear soluciones innovadoras.
+Soy un desarrollador apasionado por la tecnología, especializado en **Python**, **C#** y desarrollo **Full Stack**. De Buenos Aires, Argentina, y estoy constantemente aprendiendo nuevas tecnologías para crear soluciones innovadoras.
 
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
   
 **Backend & APIs**
-  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -30,6 +32,7 @@ Soy un desarrollador apasionado por la tecnología, especializado en **Python** 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -71,7 +74,7 @@ Versión web del sistema de gestión de stock con interfaz responsive.
 
 ## 🎯 Objetivos Profesionales
 
-- 🔍 **Buscando oportunidades** como Desarrollador Python/Full Stack
+- 🔍 **Buscando oportunidades** como Desarrollador Python/C#/Full Stack
 - 🚀 **Interesado en**: Desarrollo de APIs, aplicaciones web, automatización
 - 📚 **Aprendiendo**: React, Node.js, DevOps, Cloud Computing
 - 🌟 **Aspiraciones**: Contribuir a proyectos open source, trabajar en equipos internacionales
@@ -80,8 +83,8 @@ Versión web del sistema de gestión de stock con interfaz responsive.
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ezequiel-pedulla](https://www.linkedin.com/in/ezequiel-pedulla-72336b200/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanpedulla@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezequiel-pedulla)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequiel.pedulla@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EzequielPedulla)
 
 </div>
@@ -91,7 +94,3 @@ Versión web del sistema de gestión de stock con interfaz responsive.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EzequielPedulla&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
-
-
-
-
