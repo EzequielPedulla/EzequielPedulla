@@ -44,7 +44,7 @@ Soy un desarrollador apasionado por la tecnología, especializado en **Python**,
 
 Sistema completo de gestión de inventario desarrollado en Python con interfaz web moderna.
 
-- **Tecnologías**: Python, HTML, CSS, JavaScript
+- **Tecnologías**: Python, MySql
 - **Características**: CRUD completo, interfaz intuitiva, gestión de productos
 
 ### 🎮 [Pygame TP Final](https://github.com/EzequielPedulla/pygame-tp-final)
@@ -94,3 +94,4 @@ Versión web del sistema de gestión de stock con interfaz responsive.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EzequielPedulla&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
+
