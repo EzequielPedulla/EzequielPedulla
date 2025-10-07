@@ -1,7 +1,7 @@
-# 👋 ¡Hola! Soy Ezequiel Pedulla
+Ezequiel Pedulla
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+Python+%7C+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;En+b%C3%BAsqueda+de+oportunidades" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=2000&color=2F81F7&center=true&vCenter=true&width=500&lines=Desarrollador+Python+%7C+Full+Stack;Creando+soluciones+innovadoras;Especializado+en+APIs+y+Web+Apps" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí
@@ -92,4 +92,5 @@ Versión web del sistema de gestión de stock con interfaz responsive.
   <img src="https://komarev.com/ghpvc/?username=EzequielPedulla&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
-_"La programación es el arte de resolver problemas con creatividad y lógica"_ 💻✨
+
+
